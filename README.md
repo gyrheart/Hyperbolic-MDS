@@ -1,5 +1,5 @@
 # Hyperbolic-MDS
-Sampling points and doing multi-dimensional scaling in Hyperbolic space
+Performing non-metric multi-dimensional scaling in hyperbolic space
 
 Saved_data: this folder contains all the saved .mat files required. The Lukk’s dataset was not included here. Before you run the codes for real data analysis, you need to go to /Saved_data/SaveLukkData.m, download the data from:
 https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-62/E-MTAB-62.processed.2.zip
